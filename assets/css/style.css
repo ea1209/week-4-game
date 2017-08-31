@@ -1,0 +1,66 @@
+body {
+	background-image: url("../images/background.jpg");
+	max-width: 960px;
+	padding: 10px;
+}
+h1 {
+	background-color: orange;
+	color: white;
+	display: inline;
+	clear: both;
+	padding: 15px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+}
+
+#instructions {
+	background-color: pink;
+	width: 50%;
+	clear: both;
+	padding: 25px;
+	margin-top: 20px;
+	border: solid 1px black;
+	color: green;
+}
+
+#randomScore {
+	background-color: green;
+	height: 100px;
+	margin-top: 20px;
+	border: solid 1px black;
+	clear: both;
+	margin-left: 16px;
+	font-size: 30px;
+	color: white;
+
+}
+#winsLosses {
+	background-color: lightblue;
+	height: 100px;
+	margin-top: 20px;
+	border: solid 1px black;
+	margin-left: 80px;
+	font-size: 15px;
+}
+
+#totalScore {
+	background-color: teal;
+	padding: 10px;
+	margin-top: 20px;
+	max-width: 240px;
+	color: 
+}
+
+#score {
+	background-color: teal;
+	padding: 20px;
+	height: 100px;
+	margin-top: 20px;
+	max-width: 240px;
+	font-size: 50px;
+	color: white;	
+}
+.crystal {
+	padding: 20px;
+
+}
